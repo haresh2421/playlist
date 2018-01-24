@@ -1,0 +1,12 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.mahuaentertainment.com/images/Mahua_plus_logo.png" group-title="INFO",* Mahua plus
+http://mahuaaplus-cloud.purplestream.in/mahuaaplus/smil:mahuaaplus3-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Anjan-TV-India_o.jpg" group-title="INFO",* Anjan
+http://f2.vstream.online:1935/mi2/ngrp:anjan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal_in.png" group-title="INFO",* Dangal
+http://mhdtvlive.co.in/static/jioplayer.php?id=Dangal/Dangal_1200.m3u8
+
+
